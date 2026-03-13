@@ -27,5 +27,5 @@ This is a learning initiative.
 
 Thanks for your interest in collaborating!
 
-[Sharepoint ] (sharepoint.md)
+[Sharepoint](sharepoint.md)
 
