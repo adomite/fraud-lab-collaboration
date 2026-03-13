@@ -26,3 +26,5 @@ This is a learning initiative.
 [Fintech Bar Core Bancario](https://www.youtube.com/watch?v=m9IQNpkg__Q)
 
 [Fintech Bar Syntage](https://www.youtube.com/watch?v=yYtqBPtqWYY)
+
+[Reporte Fintech 2026](https://www.fintechmexico.org/#reporte-fintech-2026)
