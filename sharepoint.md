@@ -2,6 +2,8 @@
 
 Welcome! This page is for collaborators interested in building a **crypto fraud prevention portfolio project**.
 
+ADOLFO MITE ADOLFO MITE 
+
 ## Goal
 Create practical projects around:
 - Fraud scoring APIs
