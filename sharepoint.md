@@ -13,3 +13,5 @@
 [Fintech Bar Syntage](https://www.youtube.com/watch?v=yYtqBPtqWYY)
 
 [Reporte Fintech 2026](https://www.fintechmexico.org/#reporte-fintech-2026)
+
+[Binance - bitcoins for dummies](https://www.binance.com/en/academy/track/beginner-track)
